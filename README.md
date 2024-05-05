@@ -1,7 +1,7 @@
 # HeyBanco
 
 **Integrantes: **
-- Carolina Reséndiz
+- Carolina de los Santos Reséndiz
 - Brenda Cruz Arango
 - Marco Vinicio Martínez Sánchez
 - José Miguel Guerrero Jiménez
